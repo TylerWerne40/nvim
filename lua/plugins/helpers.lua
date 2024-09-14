@@ -6,5 +6,9 @@ return {
   "nvim-telescope/telescope-file-browser.nvim",
 
   "windwp/nvim-autopairs",
+  
+  "akinsho/nvim-bufferline.lua",
+  
+  
 
  }
