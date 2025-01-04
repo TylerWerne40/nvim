@@ -8,7 +8,6 @@ return {
   --"awoodbeck/gofumpt",
   "dahu/VimCallGraph",
   "WhoIsSethDaniel/mason-tool-installer",
-  "revive",
   "golang/mock",
   "ray-x/go.nvim",
   'preservim/tagbar',
